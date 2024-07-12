@@ -94,6 +94,9 @@ Think of Differential Privacy (DP) as a way to protect personal details while st
 
 Differential Privacy works by mixing some randomness into individual data points. This hides specific details about any one person, making it difficult to pinpoint their exact information. However, by using statistical methods, you can still understand the overall patterns and trends in the data. It’s like adding a bit of blur to a picture: you can’t see each small detail clearly, but you can still recognize the big picture.
 
+![image](https://github.com/user-attachments/assets/b779c885-dc7f-4b12-bc45-7b39829af6cd)
+
+
 
 ### Understanding "Added Randomness" in Simple Terms
 
@@ -145,3 +148,4 @@ Imagine a box of mixed balls:
 - But if you look at the whole box, you can estimate the total number of red balls (true answers) by considering the proportion of red and blue balls.
 
 By mixing in randomness, you protect individual answers while still getting useful overall results.
+
