@@ -56,6 +56,7 @@ If you remove one person’s data from the survey and calculate the average agai
 
 Because the noise is added, the final results don’t reveal any single person's true answer. Even if someone tries to guess, they can't be sure if their guess is correct.
 
+![75F06919-E36F-4BBA-ADFF-DBE328348AB7](https://github.com/user-attachments/assets/fce5fb2a-ce05-41d4-98e0-789293bcd8be)
 
 
 Elaborating on Differential Privacy
@@ -63,3 +64,5 @@ Elaborating on Differential Privacy
 
 
 Think of Differential Privacy (DP) as a way to protect personal details while still understanding overall trends in data. Here’s a straightforward way to understand it:
+
+
