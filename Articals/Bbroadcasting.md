@@ -1,0 +1,1 @@
+In machine learning, "broadcasting" refers to a concept borrowed from numpy, a fundamental package for scientific computing with Python. Broadcasting allows numpy to perform element-wise operations on arrays of different shapes. This capability is extremely useful for mathematical operations in machine learning, enabling efficient computation without the need for explicit loops. 
